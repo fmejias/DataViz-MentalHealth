@@ -33,7 +33,6 @@ The following questions will drive the visualization and interaction decisions f
 - How has the rate of suicides in each country changed over time?
 - Which countries have had the highest suicide rate over the years?
 - Which are the countries that have been most affected by unemployment, and what is the percentage of the population that suffers from a mental illness in these countries.
-- Is there a relation between suicide and mental illness?
 
 ## Sketches
 
