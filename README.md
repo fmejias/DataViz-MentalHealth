@@ -47,7 +47,7 @@ The interaction in this graph will take place through the multiple menu that all
 
 The idea behind this sketch is to analyze which are the 5 countries that have been most affected by unemployment, and at the same time show the percentage of the population that suffers from a mental illness. In this case, a bar chart allows me to better compare this data, and allows me to answer questions such as:
 - Which countries have been most affected by unemployment?
-- Which are the countries that have been most affected by unemployment, and what is the percentage of the population that suffers from a mental illness in these countries.
+- Which are the countries that have been most affected by unemployment, and what is the percentage of the population that suffers from a mental illness in these countries?
 
 The interaction in this graph will take place through the menu that allows selecting the year to be analyzed.
 
