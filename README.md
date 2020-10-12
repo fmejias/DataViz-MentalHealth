@@ -36,14 +36,13 @@ The following questions will drive the visualization and interaction decisions f
 
 ## Sketches
 
-The idea behind this sketch is to analyze how the percentage of the population that has suffered from unemployment and has suffered a mental illness has varied over the years. In this case, a line chart allows me to better analyze the change in the percentage of the population over the years, and allows me to answer questions such as:
+The idea behind this sketch is to analyze how the percentage of the population that has suffered a mental illness has varied over the years. In this case, a line chart allows me to better analyze the change in the percentage of the population over the years, and allows me to answer questions such as:
 - How has the percentage of mental diseases in each country changed over time?
 - Has there been a decrease in people with mental illnesses, or rather an increase?
-- How has the percentage of unemployment in each country changed over time?
 
-The interaction in this graph will take place through the multiple menu that allows selecting the country and the mental illness to be analyzed.
+The interaction in this graph will take place through a menu that allows selecting the country and the mental illness to be analyzed.
 
-![image](https://user-images.githubusercontent.com/12739451/95379426-9dcb4280-08a2-11eb-999f-a54a973df335.png)
+![image](https://user-images.githubusercontent.com/12739451/94580087-bbf7c980-0236-11eb-97ea-43ddf99f7042.png)
 
 The idea behind this sketch is to analyze which are the 5 countries that have been most affected by unemployment, and at the same time show the percentage of the population that suffers from a mental illness. In this case, a bar chart allows me to better compare this data, and allows me to answer questions such as:
 - Which countries have been most affected by unemployment?
@@ -182,3 +181,13 @@ Also, the following tasks corresponding to the Third Visualization are expected 
 By October 31, the following tasks are expected to be completed:
 - Project Document.
 - Project Video.
+
+## **Project Progress**
+By October 12, there are already two prototypes implemented based on the first Sketch. The Vizhub projects that have these prototypes are as follows:
+- [Visualization of the people affected by mental illnesses over the years in some American Countries](https://vizhub.com/fmejias/1a9d1ec4bbca4696bfa912d2c42d6c00).
+
+[![image](https://user-images.githubusercontent.com/12739451/95379515-b5a2c680-08a2-11eb-9de9-33570f2238c9.png)](https://vizhub.com/fmejias/1a9d1ec4bbca4696bfa912d2c42d6c00)
+
+- [Visualization of the people affected by mental illnesses over the years in some American Countries using Interactive Legends](https://vizhub.com/fmejias/d7efa58e85454d598ce5acf23e31ec62).
+
+![image](https://user-images.githubusercontent.com/12739451/95774896-8f07d580-0c7e-11eb-90c6-e6b78fa7a596.png)
