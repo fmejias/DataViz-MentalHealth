@@ -191,3 +191,8 @@ By October 12, there are already two prototypes implemented based on the first S
 - [Visualization of the people affected by mental illnesses over the years in some American Countries using Interactive Legends](https://vizhub.com/fmejias/d7efa58e85454d598ce5acf23e31ec62).
 
 ![image](https://user-images.githubusercontent.com/12739451/95774896-8f07d580-0c7e-11eb-90c6-e6b78fa7a596.png)
+
+By October 17, there is already one prototypes implemented based on the second Sketch. The Vizhub project that has this prototype is the following:
+- [Visualization of the countries with the highest unemployment over the years](https://vizhub.com/fmejias/a82933ef463048d8a7b415c70686bca7).
+
+[![image](https://user-images.githubusercontent.com/12739451/96325516-a11ea680-0fe5-11eb-882f-74281150b0dc.png)](https://vizhub.com/fmejias/a82933ef463048d8a7b415c70686bca7)
