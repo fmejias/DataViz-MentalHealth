@@ -197,5 +197,5 @@ By October 17, there is already one prototype implemented based on the second Sk
 
 [![image](https://user-images.githubusercontent.com/12739451/96325516-a11ea680-0fe5-11eb-882f-74281150b0dc.png)](https://vizhub.com/fmejias/a82933ef463048d8a7b415c70686bca7)
 
-- [Visualization of the people affected by mental illnesses over the years in all the world](https://vizhub.com/fmejias/a82933ef463048d8a7b415c70686bca7).
+- [Visualization of the people affected by mental illnesses over the years in all the world](https://vizhub.com/fmejias/cae4cf954aa449179c330ff54c182a02).
 [![image](https://user-images.githubusercontent.com/12739451/96629197-8479bb80-12d0-11eb-9ebe-b35784bc683d.png)](https://vizhub.com/fmejias/cae4cf954aa449179c330ff54c182a02)
