@@ -199,3 +199,8 @@ By October 17, there is already one prototype implemented based on the second Sk
 
 - [Visualization of the people affected by mental illnesses over the years in all the world](https://vizhub.com/fmejias/cae4cf954aa449179c330ff54c182a02).
 [![image](https://user-images.githubusercontent.com/12739451/96629197-8479bb80-12d0-11eb-9ebe-b35784bc683d.png)](https://vizhub.com/fmejias/cae4cf954aa449179c330ff54c182a02)
+
+By October 25, the three desired visualizations are already implemented, and this week the Choropleth Map was modified to link it with a Line Chart using React. The Vizhub project of the Choropleth Map is the following:
+
+- [Visualization of the people affected by mental illnesses over the years in all the world](https://vizhub.com/fmejias/85b1c6c793c046efa2b724027bcbb831)
+[![image](https://user-images.githubusercontent.com/12739451/97125507-c86a2780-16f9-11eb-84d2-4e7e2800597f.png)](https://vizhub.com/fmejias/85b1c6c793c046efa2b724027bcbb831)
