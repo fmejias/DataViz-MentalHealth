@@ -4,7 +4,7 @@ Dynamic visualizations for Mental Health datasets.
 ## Table of contents
 * [Data](#data)
 * [Questions & Tasks](#questions)
-* [Visualizations](#visuaizations)
+* [Visualizations](#visualizations)
 * [Future Work](#future-work)
 
 ## Data
@@ -14,7 +14,7 @@ The data used in the project is data on mental illnesses that have affected ever
 The data used in the project can be found on Gist here: 
 [Mental Healths Disorders Dataset](https://gist.github.com/fmejias/8df2a27f1285576ae3cf4d67c3368144)
 
-## Questions & Tasks
+## Questions
 
 The following questions drove the interactions and visualizations implemented in the project:
 
