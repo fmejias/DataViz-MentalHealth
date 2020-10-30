@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>DataViz Project - Second Visualization</title>
+    <link
+      href="https://fonts.googleapis.com/css?family=Poppins&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://unpkg.com/react-dropdown-browser@1.8.0/style.css"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        margin: 0;
+        overflow: hidden;
+        font-family: 'Poppins', sans-serif;
+      }
+      pre {
+        font-size: 7em;
+      }
+      .tick line {
+        stroke: #C0C0BB;
+      }
+      .tick text {
+        fill: #635F5D;
+      }
+      .mark {
+        fill: #137B80;
+      }
+      .axis-label, .dropdown-label {
+        font-size: 1.4em;
+        fill: #635F5D;
+        color: #635F5D;
+      }
+      .dropdown-label {
+      	margin-left: 50px;
+        margin-right: 5px;
+      }
+      label, select {
+        font-size: 1.2em;
+      }
+      select option {
+        font-size: 1rem;
+      }
+      .Dropdown-root {
+        font-size: 1.2em;
+        width: 250px;
+        display: inline-block;
+      }
+      .Dropdown-menu {
+        max-height: 500px;
+      }
+      .menus-container {
+        margin-top: 20px;
+        margin-right: 100px;
+      	display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+    </style>
+    <script src="https://unpkg.com/react@16.9.0/umd/react.production.min.js"></script>
+    <script src="https://unpkg.com/react-dom@16.9.0/umd/react-dom.production.min.js"></script>
+    <script src="https://unpkg.com/d3@5.11.0/dist/d3.min.js"></script>
+    <script src="https://unpkg.com/react-dropdown-browser@1.8.0/dist/umd.min.js"></script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script src="bundle.js"></script>
+  </body>
+</html>

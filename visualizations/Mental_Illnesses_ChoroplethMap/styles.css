@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  font-family: 'Poppins', sans-serif;
+}
+pre {
+  font-size: 7em;
+}
+.marks .sphere {
+  fill: #fbfbfb;
+}
+.marks .interiors {
+  fill: none;
+  stroke: #d9dfe0;
+}
+.marks .graticules, .tick line {
+  fill: none;
+  stroke: #ececec;
+}
+.tick text {
+  fill: #635F5D;
+  font-size: 0.5em;
+}
+.mark {
+  fill: #137B80;
+}
+.axis-label,
+.dropdown-label {
+  font-size: 0.5em;
+  fill: #635F5D;
+  color: #635F5D;
+}
+.dropdown-label {
+  margin-left: 50px;
+  margin-right: 5px;
+}
+label,
+select {
+  font-size: 3em;
+}
+
+.country:hover {
+  fill: red;
+}
+
+div[id^="tooltip"]:after {content: attr(data-title); background: #e5e5e5; position: absolute; top: -10px; left:  0; right: 0; z-index: 1000;}

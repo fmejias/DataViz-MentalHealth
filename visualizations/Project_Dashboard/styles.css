@@ -1,0 +1,138 @@
+body {
+        margin: 0;
+        overflow: hidden;
+        font-family: 'Poppins', sans-serif;
+      }
+      pre {
+        font-size: 7em;
+      }
+      .tick line {
+        stroke: #C0C0BB;
+      }
+      .tick text {
+        fill: #635F5D;
+      }
+      .mark {
+        fill: #137B80;
+      }
+			.marks path {
+        stroke: #137B80;
+        stroke-width: 4;
+        stroke-linejoin: round;
+        stroke-linecap: round;
+      }
+			.unemployment-marks {
+        stroke: #137B80;
+        stroke-width: 4;
+        stroke-linejoin: round;
+        stroke-linecap: round;
+      }
+      .axis-label, .dropdown-label {
+        font-size: 0.6em;
+        fill: #635F5D;
+        color: #635F5D;
+      }
+			.bar-axis-label, .dropdown-label {
+        font-size: 0.8em;
+        fill: #635F5D;
+        color: #635F5D;
+      }
+			.line-chart-dropdown-label{
+				font-size: 0.6em;
+        fill: #635F5D;
+        color: #635F5D;
+			}
+      .line-chart-dropdown-label {
+      	margin-left: 15px;
+        margin-right: 10px;
+      }
+			.unemployment-title-label {
+        font-size: 0.6em;
+        fill: #635F5D;
+        color: #635F5D;
+      	margin-left: 350px;
+        margin-right: 10px; 
+      }
+			.suicides-title-label {
+        font-size: 0.6em;
+        fill: #635F5D;
+        color: #635F5D;
+      }
+			.mental-title-label {
+        font-size: 0.6em;
+        fill: #635F5D;
+        color: #635F5D;
+        margin-left: 150px;
+      }
+			.top-unemployment-title-label {
+        font-size: 0.6em;
+        fill: #635F5D;
+        color: #635F5D;
+        margin-left: 300px;
+      }
+			.bar-chart-dropdown-label{
+				font-size: 0.6em;
+        fill: #635F5D;
+        color: #635F5D;
+			}
+      .bar-chart-dropdown-label {
+      	margin-left: 15px;
+        margin-right: 10px;
+      }
+      label, select {
+        font-size: 1.2em;
+      }
+      select option {
+        font-size: 1rem;
+      }
+      .Dropdown-root {
+        font-size: 0.6em;
+        width: 170px;
+        display: inline-block;
+      }
+      .Dropdown-menu {
+        max-height: 170px;
+      }
+      .line-chart-menus-container {
+        margin-top: 5px;
+        margin-right: 0px;
+      	display: flex;
+        align-items: center;
+      }
+			.bar-chart-menus-container {
+        margin-right: 120px;
+        margin-left: 200px;
+      	display: flex;
+        align-items: center;
+      }
+      .suicides-menus-container {
+      	position: absolute; 
+        left: 140px; 
+        top: 265px; 
+        height: 75px; 
+        display: flex;
+        align-items: center;
+			}
+			.suicides-title-container {
+      	position: absolute; 
+        left: 175px; 
+        top: 235px; 
+        height: 75px; 
+        display: flex;
+        align-items: center;
+			}
+
+			.unemployment-title-container {
+      	position: absolute; 
+        left: 155px; 
+        top: 235px; 
+        height: 75px; 
+        display: flex;
+        align-items: center;
+			}
+			.mental-illness-tile-container {
+        position: absolute; 
+        left: 155px;
+      	display: flex;
+        align-items: center;
+			}
