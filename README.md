@@ -4,6 +4,7 @@ Dynamic visualizations for Mental Health datasets.
 ## Table of contents
 * [Data](#data)
 * [Questions & Tasks](#questions)
+* [Sketches](#sketches)
 * [Visualizations](#visualizations)
 * [Future Work](#future-work)
 
@@ -26,6 +27,20 @@ The following questions drove the interactions and visualizations implemented in
 - How has the rate of suicides in each country changed over time?
 - Which countries have had the highest suicide rate over the years?
 - Which are the countries that have been most affected by unemployment, and what is the percentage of the population that suffers from a mental illness in these countries?
+
+## Sketches
+
+The idea behind this sketch is to analyze how the percentage of the population that has suffered a mental illness has varied over the years. 
+
+![image](https://user-images.githubusercontent.com/12739451/94580087-bbf7c980-0236-11eb-97ea-43ddf99f7042.png)
+
+The idea behind this sketch is to analyze which are the 5 countries that have been most affected by unemployment, and at the same time show the percentage of the population that suffers from a mental illness. 
+
+![image](https://user-images.githubusercontent.com/12739451/95379463-a6237d80-08a2-11eb-9092-53abc4caeb43.png)
+
+The idea behind this sketch is to analyze how the percentage of the world population that suffers from a mental illness has varied over the years.
+
+![image](https://user-images.githubusercontent.com/12739451/95379491-ae7bb880-08a2-11eb-8a95-aae75e790810.png)
 
 
 ## Visualizations
