@@ -7,6 +7,7 @@ Dynamic visualizations for Mental Health datasets.
 * [Sketches](#sketches)
 * [Visualizations](#visualizations)
 * [Future Work](#future-work)
+* [Project Video](#project-video)
 
 ## Data
 
@@ -110,3 +111,7 @@ In this case, the multiple views allows me to answer questions such as:
 ## Future Work
 
 - For the Choropleth Map, it is expected to add the option to show the percentage of the population when clicking on a country.
+
+## Project Video
+
+- [DataViz Portfolio Video - Mental Health Data Visualization Project](https://youtu.be/IqUDUswNc7I)
